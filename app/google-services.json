@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581049014014",
+    "firebase_url": "https://geofence-fad56.firebaseio.com",
+    "project_id": "geofence-fad56",
+    "storage_bucket": "geofence-fad56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581049014014:android:dd67328a31236909",
+        "android_client_info": {
+          "package_name": "com.mani.apps.geofence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581049014014-7s2bvtrprvptjbqndmblpncuu6dpmas4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwtZJd3Nx9uk3CTnPMKc8v1HKhuirEPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
